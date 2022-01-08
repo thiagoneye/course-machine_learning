@@ -8,26 +8,26 @@ https://www.igti.com.br/bootcamp/engenheiro-de-machine-learning/
 
 ## Content
 
-- Module 1:
+Module 1:
 
-Practical Work: Medical appointment no shows
-Challenge: Predicting wine quality
+- Practical Work: Medical appointment no shows
+- Challenge: Predicting wine quality
 
-- Module 2:
+Module 2:
 
-Practical Work: Bike sharing demand
-Challenge: Banknote authentication
+- Practical Work: Bike sharing demand
+- Challenge: Banknote authentication
 
-- Module 3:
+Module 3:
 
-Practical Work: Detecting whether a person has diabetes or not, Blood transfusion service center
-Challenge: Indian liver patient records
+- Practical Work: Detecting whether a person has diabetes or not, Blood transfusion service center
+- Challenge: Indian liver patient records
 
-- Module 4:
+Module 4:
 
-Practical Work: Clothing Image Classification (Fashion MNIST)
-Challenge: Classify flowers with transfer learning
+- Practical Work: Clothing Image Classification (Fashion MNIST)
+- Challenge: Classify flowers with transfer learning
 
-- Final Challenge:
+Final Challenge:
 
-Predicting the car make
+- Predicting the car make
