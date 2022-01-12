@@ -20,7 +20,7 @@ Module 2 (Predictive Models and Time Series):
 
 Module 3 (Machine Learning Model Selection):
 
-- Practical Work: Detecting whether a person has diabetes or not, Blood transfusion service center
+- Practical Work: Detecting whether a person has diabetes or not, Blood transfusion service center and Predicting wine quality
 - Challenge: Indian liver patient records
 
 Module 4 (Learning Methodologies):
